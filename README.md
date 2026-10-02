@@ -5,13 +5,13 @@
 - **I played:** subway surfers for over an hour, collected around 20k coins and a high score of 200k
 - **Video (optional):** [YouTube (unlisted) or Google Drive link]
 <p>
-<img src="Docs/game1/1.png" width="240">
-<img src="Docs/game1/2.png" width="240">
-<img src="Docs/game1/3.png" width="240">
-<img src="Docs/game1/4.png" width="240">
-<img src="Docs/game1/5.png" width="240">
-<img src="Docs/game1/6.png" width="240">
-<img src="Docs/game1/7.png" width="240">
+<img src="Docs/game1/1.jpeg" width="240">
+<img src="Docs/game1/2.jpeg" width="240">
+<img src="Docs/game1/3.jpeg" width="240">
+<img src="Docs/game1/4.jpeg" width="240">
+<img src="Docs/game1/5.jpeg" width="240">
+<img src="Docs/game1/6.jpeg" width="240">
+<img src="Docs/game1/7.jpeg" width="240">
 </p>
 1. [M1] · [shows the gameplay where trains and other obstacles are shown where you swipe to dodge them]
 2. [M2] · [shows a pop up seen after a crash where you have an option to continue the run using keys or adds]
@@ -53,12 +53,12 @@ game: https://www.roblox.com/share?code=ab49f11bcf00ee46b23be75a223d8e39&type=Ex
 - **I played:** this game for over 3 hours, collected 10 brushes in total, after that got caught
 - **Video (optional):** [YouTube (unlisted) or Google Drive link]
 <p>
-<img src="Docs/game2/1.png" width="240">
-<img src="Docs/game2/2.png" width="240">
-<img src="Docs/game2/3,6.png" width="240">
-<img src="Docs/game2/4.png" width="240">
-<img src="Docs/game2/5.png" width="240">
-<img src="Docs/game2/7.png" width="240">
+<img src="Docs/game2/1.jpeg" width="240">
+<img src="Docs/game2/2.jpeg" width="240">
+<img src="Docs/game2/3,6.jpeg" width="240">
+<img src="Docs/game2/4.jpeg" width="240">
+<img src="Docs/game2/5.jpeg" width="240">
+<img src="Docs/game2/7.jpeg" width="240">
 </p>
 1. [M1] · [shows the player colored in red, hiding from the monster in a red section of the wall]
 2. [M2] · [shows the player throwing red paint on the red bucket]
